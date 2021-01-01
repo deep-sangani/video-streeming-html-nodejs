@@ -1,0 +1,17 @@
+{
+  "name": "video-streeming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "deep",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon server",
+    "serve":"node server"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
